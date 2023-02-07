@@ -1,2 +1,7 @@
 # Data_Science_Projects
-A compilation of projects where data science skills are applied
+Compilation of projects to prove the following skills:
+  * Algorithms Design
+  * Data Analysis
+  * Exploratory Data Analysis
+  * Classification and Clustering
+  * Project Plan
