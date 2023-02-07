@@ -4,4 +4,4 @@ Compilation of projects to prove the following skills:
   * Data Analysis
   * Exploratory Data Analysis
   * Classification and Clustering
-  * Project Plan
+  * Project Planning
